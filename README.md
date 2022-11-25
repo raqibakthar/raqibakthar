@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Python Django developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raqibakthar&label=Profile%20views&color=0e75b6&style=flat" alt="raqibakthar" /> </p>
-
+<img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 - 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **mongoDB,Data Structure**
