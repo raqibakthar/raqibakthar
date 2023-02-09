@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **mongoDB,Data Structure**
 
-- 💬 Ask me about **Python,HTML,CSS,django**
+- 💬 Ask me about **Python,HTML,CSS,django,React,RestAPI**
 
 - 📫 How to reach me **raqibakthar029@gmail.com**
 
