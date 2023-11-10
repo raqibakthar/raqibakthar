@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python,HTML,CSS,django,React,RestAPI**
 
